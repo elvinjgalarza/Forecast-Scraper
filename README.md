@@ -1,2 +1,2 @@
 # Forecast-Scraper
-Gathers weather information for Edinburg, Texas (785439)
+Gathers current weather information for Edinburg, Texas (785439)
